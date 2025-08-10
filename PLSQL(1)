@@ -10,7 +10,8 @@
 
 -데이터 수정을 위해 DML 사용 가능
 
-![2025-03-26 21 38 25.png](2025-03-26_21_38_25.png)
+![2025-03-26 21 38 25.png](https://github.com/user-attachments/assets/a418c5c8-9e7e-4c8c-b891-f544cebba37a
+)
 
  
 
@@ -66,7 +67,7 @@
 - 바인드 변수(Bind variables) : PL/SQL 블록과 SQL 명령어 사이에서 데이터를 공유하게 해주는 변수
     1. vriable 변수명 데이터타입
 
-![VARIABLE b_emp_salary(변수명) number(데이터타입) 라는 바인드 변수를 선언 후 블록 내에서  :b_emp_salary로  해당변수 참조](2025-03-26_22_20_10.png)
+![VARIABLE b_emp_salary(변수명) number(데이터타입) 라는 바인드 변수를 선언 후 블록 내에서  :b_emp_salary로  해당변수 참조](https://github.com/user-attachments/assets/21395228-e2e5-4f99-b471-af6c49275fc4)
 
 VARIABLE b_emp_salary(변수명) number(데이터타입) 라는 바인드 변수를 선언 후 블록 내에서  :b_emp_salary로  해당변수 참조
 
